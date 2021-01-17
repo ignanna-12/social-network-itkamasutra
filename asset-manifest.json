@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/social-network-itkamasutra/static/css/main.edd7c054.chunk.css",
+    "main.js": "/social-network-itkamasutra/static/js/main.623acab1.chunk.js",
+    "main.js.map": "/social-network-itkamasutra/static/js/main.623acab1.chunk.js.map",
+    "runtime-main.js": "/social-network-itkamasutra/static/js/runtime-main.74462ad1.js",
+    "runtime-main.js.map": "/social-network-itkamasutra/static/js/runtime-main.74462ad1.js.map",
+    "static/js/2.58dfb8db.chunk.js": "/social-network-itkamasutra/static/js/2.58dfb8db.chunk.js",
+    "static/js/2.58dfb8db.chunk.js.map": "/social-network-itkamasutra/static/js/2.58dfb8db.chunk.js.map",
+    "static/css/3.53264f17.chunk.css": "/social-network-itkamasutra/static/css/3.53264f17.chunk.css",
+    "static/js/3.73bb4176.chunk.js": "/social-network-itkamasutra/static/js/3.73bb4176.chunk.js",
+    "static/js/3.73bb4176.chunk.js.map": "/social-network-itkamasutra/static/js/3.73bb4176.chunk.js.map",
+    "static/css/4.bd15e2e7.chunk.css": "/social-network-itkamasutra/static/css/4.bd15e2e7.chunk.css",
+    "static/js/4.f4fe5587.chunk.js": "/social-network-itkamasutra/static/js/4.f4fe5587.chunk.js",
+    "static/js/4.f4fe5587.chunk.js.map": "/social-network-itkamasutra/static/js/4.f4fe5587.chunk.js.map",
+    "static/js/5.e01f5cea.chunk.js": "/social-network-itkamasutra/static/js/5.e01f5cea.chunk.js",
+    "static/js/5.e01f5cea.chunk.js.map": "/social-network-itkamasutra/static/js/5.e01f5cea.chunk.js.map",
+    "index.html": "/social-network-itkamasutra/index.html",
+    "static/css/3.53264f17.chunk.css.map": "/social-network-itkamasutra/static/css/3.53264f17.chunk.css.map",
+    "static/css/4.bd15e2e7.chunk.css.map": "/social-network-itkamasutra/static/css/4.bd15e2e7.chunk.css.map",
+    "static/css/main.edd7c054.chunk.css.map": "/social-network-itkamasutra/static/css/main.edd7c054.chunk.css.map",
+    "static/js/2.58dfb8db.chunk.js.LICENSE.txt": "/social-network-itkamasutra/static/js/2.58dfb8db.chunk.js.LICENSE.txt",
+    "static/media/loading-9.f1283d50.gif": "/social-network-itkamasutra/static/media/loading-9.f1283d50.gif",
+    "static/media/user.0a371b56.png": "/social-network-itkamasutra/static/media/user.0a371b56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74462ad1.js",
+    "static/js/2.58dfb8db.chunk.js",
+    "static/css/main.edd7c054.chunk.css",
+    "static/js/main.623acab1.chunk.js"
+  ]
+}
